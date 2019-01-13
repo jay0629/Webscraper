@@ -1,0 +1,15 @@
+This is a example of the scrapy debug file when using grep to start the clean up
+process.
+
+grep Movie < scrape_output > exampleMovies
+
+This Linux command can be used via the Linux environment however not OS independent.
+
+
+
+{'Movie Trailers [*] ': '\n\t\t\t\t\t\t\tMovie roundup: Support cinema this January 2019\t\t\t\t\t\t'}
+{'Movie Trailers [*] ': '\n\t\t\t\t\t\t\t\u2018Die Hard\u2019 is getting the ultimate Christmas makeover with all-new festive trailer for the holiday season\t\t\t\t\t\t'}
+{'Movie Trailers [*] ': '\n\t\t\t\t\t\t\tLearn what \u2018The Price of Free\u2019 children means in this touching documentary on child trafficking (Participant Media)\t\t\t\t\t\t'}
+{'Movie Trailers [*] ': '\n\t\t\t\t\t\t\tJump back on the vintage 1950s comedy circuit in S2 of colorful feminist winner \u2018The Marvelous Mrs. Maisel\u2019 (Amazon)\t\t\t\t\t\t'}
+{'Movie Trailers [*] ': '\n\t\t\t\t\t\t\tCheck out these hoser comics bomb and kill on their way to the big time in Montreal in new series \u2018Inside Jokes\u2019 (Amazon)\t\t\t\t\t\t'}
+{'Movie Trailers [*] ': '\n\t\t\t\t\t\t\tDonald Glover voices Simba in \u2018The Lion King\u2019 live-action reboot cash cow feature (Disney)\t\t\t\t\t\t'}
